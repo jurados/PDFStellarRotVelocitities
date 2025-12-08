@@ -76,6 +76,17 @@ Recover the Distribution of True Stellar Rotational Velocities ($v \equiv f_X(x)
 
 ## Results
 
+This method was first applied to field stars from the Geneva-Copenhagen survey (Holmberg et al., 2009), which contains a sample of 11818 F and G dwarf stars in the solar neighborhood with measured projected rotational velocities ($v \sin i$). The best-fit value of $\alpha$ was found to be $\alpha = 0$, indicating an isotropic distribution of stellar rotation axes.
+
+<center>
+    Geneve-Copenhagen Survey Field Stars Results
+    <img src="results/rmse_vs_alpha_geneve.png" width="45%" />
+    <img src="results/true_velocity_distribution_geneve.png" width="45%" />
+</center>
+
+After the same procedure was applied to stars in the open clusters Alpha Persei and Pleidaes, the best-fit value of $\alpha$. Obtained the next results:
+
+
 ## Conclusions
 - In the cases of Field Stars the value of $\alpha = 0$ was obtianed, indicating that the distribution of true rotational velocities is consistent with an isotropic distribution of stellar rotation axes. This result aligns with previous studies such as Chandrasekhar & Münch (1950).
 
