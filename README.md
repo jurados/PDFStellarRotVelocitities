@@ -84,23 +84,23 @@ This method was first applied to field stars from the Geneva-Copenhagen survey (
 
 <center>
     Geneve-Copenhagen Survey Field Stars Results
-    <img src="results/vsini_reconstruction_alphavalues_geneve.png", height=300/>
-    <img src="results/rmse_vs_alpha_geneve.png", height=300/>
-    <img src="results/true_velocity_distribution_geneve.png", height=300 />
+    <img src="TStarRotVel/results/vsini_reconstruction_alphavalues_geneve.png", height=300/>
+    <img src="TStarRotVel/results/rmse_vs_alpha_geneve.png", height=300/>
+    <img src="TStarRotVel/results/true_velocity_distribution_geneve.png", height=300 />
 </center>
 
 After the same procedure was applied to stars in the open clusters Alpha Persei and Pleidaes, the best-fit value of $\alpha$. Obtained the next results:
 
 <center>
     Alpha Persei star cluster Results
-    <img src="results/rmse_vs_alpha_AlphaPersei.png", height=300/>
-    <img src="results/true_velocity_distribution_AlphaPersei.png", height=300 />
+    <img src="TStarRotVel/results/rmse_vs_alpha_AlphaPersei.png", height=300/>
+    <img src="TStarRotVel/results/true_velocity_distribution_AlphaPersei.png", height=300 />
 </center>
 
 <center>
     Pleiades star cluster Results
-    <img src="results/rmse_vs_alpha_Pleiades.png", height=300/>
-    <img src="results/true_velocity_distribution_Pleiades.png", height=300 />
+    <img src="TStarRotVel/results/rmse_vs_alpha_Pleiades.png", height=300/>
+    <img src="TStarRotVel/results/true_velocity_distribution_Pleiades.png", height=300 />
 </center>
 
 In summary we tabulate the best-fit $\alpha$ values for each dataset:
